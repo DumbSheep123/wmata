@@ -26,7 +26,7 @@ To get started, simply:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/DumbSheep123/wmata.git
 ```
 2. Install the dependencies
 
